@@ -17,5 +17,13 @@
 
 **Link(s) to work**: [E-learning Landing Page](https://lucky-douhua-995b7c.netlify.app)
 
+### Day 2: August 6, 2022
+
+**Today's Progress**: Finished the grids and footer on this e-learning landing page from Frontend Mentor responsively.
+
+**Thoughts**: This site looks simple but it really helps to remind me the flexbox and grids structure. grid-template-areas is my favourite tool. I also become more familiar with Sass feature and I tried seperate my css files in different foler structure. I'd like to use rem for my next project with the Sass custom function to convert rem to px.
+
+**Link(s) to work**: [E-learning Landing Page](https://lucky-douhua-995b7c.netlify.app)
+
 
 

@@ -1,4 +1,4 @@
-### Day 1: August 5, 2022
+### Day 1: August 4, 2022
 
 **Today's Progress**: Worked on the e-learning landing page from Frontend Mentor. Build header & hero section responsivly.
 
@@ -6,13 +6,22 @@
 
 **Link(s) to work**: [E-learning Landing Page](https://lucky-douhua-995b7c.netlify.app)
 
-### Day 2: August 6, 2022
+### Day 2: August 5, 2022
 
 **Today's Progress**: Finished the grids and footer on this e-learning landing page from Frontend Mentor responsively.
 
 **Thoughts**: This site looks simple but it really helps to remind me the flexbox and grids structure. grid-template-areas is my favourite tool. I also become more familiar with Sass feature and I tried seperate my css files in different foler structure. I'd like to use rem for my next project with the Sass custom function to convert rem to px.
 
 **Link(s) to work**: [E-learning Landing Page](https://lucky-douhua-995b7c.netlify.app)
+
+### Day 3: August 6, 2022
+
+**Today's Progress**: Finished the Beta version of a React app: Tic-Tac-Toe Game. Basic game logic, computer opponent and reset button included.
+
+**Thoughts**: This project is my first React project besides the React online course. I get to familiar Hooks and props. I will consider to use Redux when the application become more complicated. I would like to add multi-player feature, end game message on modal and store the winning record on browser storage soon.
+
+**Link(s) to work**: [React app: Tic-Tac-Toe](https://steady-kelpie-2829ee.netlify.app/)
+
 
 
 

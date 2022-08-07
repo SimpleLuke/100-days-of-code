@@ -22,6 +22,15 @@
 
 **Link(s) to work**: [React app: Tic-Tac-Toe](https://steady-kelpie-2829ee.netlify.app/)
 
+### Day 4: August 7, 2022
+
+**Today's Progress**: Updated the React app: Tic-Tac-Toe Game. Added overlays for restart and endgame. Now game records will store in the browser. Player can reset the record through the quit button.
+
+**Thoughts**: I am happy to add more features on this game. I can combine what I've learnt to my own application such as React Portal and local storage. I'd like to add features like color for connecting line, multi-player mode and a home menu for choosing X/O and mode.
+
+**Link(s) to work**: [React app: Tic-Tac-Toe](https://steady-kelpie-2829ee.netlify.app/)
+
+
 
 
 

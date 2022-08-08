@@ -30,6 +30,20 @@
 
 **Link(s) to work**: [React app: Tic-Tac-Toe](https://steady-kelpie-2829ee.netlify.app/)
 
+app/)
+
+### Day 5:  August 8, 2022
+
+**Today's Progress**: Trying to make the three squares of the winning line changing its colour. I didn't work it out yet. But I learnt there are css properties of clip-path and mask-image that I can work with. 
+
+**Thoughts**: Sometimes we will face a block and don't know what's the solution. But after I short break or work on something else, suddenly the idea will come out.
+
+**Link(s) to work**: [React app: Tic-Tac-Toe](https://steady-kelpie-2829ee.netlify.app/)
+
+
+
+
+
 
 
 

@@ -41,6 +41,15 @@ app/)
 **Link(s) to work**: [React app: Tic-Tac-Toe](https://steady-kelpie-2829ee.netlify.app/)
 
 
+### Day 6:  August 8, 2022
+
+**Today's Progress**: Now when the endgame line connect, the square will change color.
+
+**Thoughts**: I thought about using the "clip-image" property, however, I find out maybe it would be better to filter the original O/X color.
+
+**Link(s) to work**: [React app: Tic-Tac-Toe](https://steady-kelpie-2829ee.netlify.app/)
+
+
 
 
 

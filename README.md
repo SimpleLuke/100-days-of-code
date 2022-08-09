@@ -41,7 +41,7 @@ app/)
 **Link(s) to work**: [React app: Tic-Tac-Toe](https://steady-kelpie-2829ee.netlify.app/)
 
 
-### Day 6:  August 8, 2022
+### Day 6:  August 9, 2022
 
 **Today's Progress**: Now when the endgame line connect, the square will change color.
 

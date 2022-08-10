@@ -49,6 +49,14 @@ app/)
 
 **Link(s) to work**: [React app: Tic-Tac-Toe](https://steady-kelpie-2829ee.netlify.app/)
 
+### Day 7:  August 10, 2022
+
+**Today's Progress**: Home page is added. Now player can choose X or O to play.
+
+**Thoughts**: Now I understand when the application becomes more complicated, the code is also become not so clean. In future project, I should focus on the structure planning and using Redux.
+
+**Link(s) to work**: [React app: Tic-Tac-Toe](https://steady-kelpie-2829ee.netlify.app/)
+
 
 
 

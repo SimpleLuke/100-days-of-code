@@ -57,6 +57,14 @@ app/)
 
 **Link(s) to work**: [React app: Tic-Tac-Toe](https://steady-kelpie-2829ee.netlify.app/)
 
+### Day 8:  August 11, 2022
+
+**Today's Progress**: I added the Multi-player mode on this React app: Tic-Tac-Toe. The player who chooses X will go first.
+
+**Thoughts**: I only twisted some logic to turn cpu mode into multi-player mode. Now the code is a bit messy. I hope I can spend time to organize it and refactorize the code into more readable.
+
+**Link(s) to work**: [React app: Tic-Tac-Toe](https://steady-kelpie-2829ee.netlify.app/)
+
 
 
 

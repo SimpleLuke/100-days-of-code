@@ -77,6 +77,14 @@ app/)
 
 **Thoughts**: Good to remind me building a responsive website is not just about media query. Don't use px, unless it is a very small value (it doesnt matter much after convertion.)
 
+### Day 11:  August 14, 2022
+
+**Today's Progress**: I build a home page along with Jonas Schmedtmann advanced css course. (media query is not included yet)
+
+**Thoughts**: I learnt a lot of css animation techniques today. However, I think if I want to master it, I have to use those tricks a lot to make it my muscle memories.
+
+**Link(s) to work**: [A Tours Homepage](https://heroic-paletas-e31bfd.netlify.app/)
+
 
 
 

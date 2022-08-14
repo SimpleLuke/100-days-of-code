@@ -65,11 +65,17 @@ app/)
 
 **Link(s) to work**: [React app: Tic-Tac-Toe](https://steady-kelpie-2829ee.netlify.app/)
 
-### Day 9:  August 11, 2022
+### Day 9:  August 12, 2022
 
 **Today's Progress**: I took the Advanced CSS course from Jonas Schmedtmann.
 
 **Thoughts**: It is good to revision CSS techniques. Although I know CSS is not a programming language, I think it is important to master CSS for a web developer.
+
+### Day 10:  August 13, 2022
+
+**Today's Progress**: I continued the Advanced CSS course from Jonas Schmedtmann. Re-learn about float and clearfix. How to animate a flip card effect. Also, the 7-1 CSS Architecture with Sass.
+
+**Thoughts**: Good to remind me building a responsive website is not just about media query. Don't use px, unless it is a very small value (it doesnt matter much after convertion.)
 
 
 

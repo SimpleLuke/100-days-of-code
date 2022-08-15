@@ -85,6 +85,14 @@ app/)
 
 **Link(s) to work**: [A Tours Homepage](https://heroic-paletas-e31bfd.netlify.app/)
 
+### Day 12:  August 15, 2022
+
+**Today's Progress**: Revision of Flexbox and Grid with Jonas Schmedtmann advanced css course.
+
+**Thoughts**: With Flexbox and Grid, responsive website becomes more easy to manage than just depending on media query. Practice, practice, practice!
+
+**Link(s) to work**: [Natours Homepage](https://heroic-paletas-e31bfd.netlify.app/)
+
 
 
 

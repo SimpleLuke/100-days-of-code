@@ -91,7 +91,7 @@ app/)
 
 **Thoughts**: With Flexbox and Grid, responsive website becomes more easy to manage than just depending on media query. Practice, practice, practice!
 
-**Link(s) to work**: [Natours Homepage](https://heroic-paletas-e31bfd.netlify.app/)
+**Link(s) to work**: [Trillo Homepage](https://warm-daffodil-12ec40.netlify.app/)
 
 
 

@@ -93,6 +93,14 @@ app/)
 
 **Link(s) to work**: [Trillo Homepage](https://warm-daffodil-12ec40.netlify.app/)
 
+### Day 13:  August 16, 2022
+
+**Today's Progress**: I built a responvie Equalizer landing page from Frontend Mentor challenge.
+
+**Thoughts**: I try to use grid box for whole layout and small parts as well. At the beginning, I have to look back the decumentary to figure out the right layout. But once finished the setup, adjustment is very easy.
+
+**Link(s) to work**: [Equalizer Landing Page](https://cerulean-arithmetic-ca136f.netlify.app/)
+
 
 
 

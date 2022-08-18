@@ -107,6 +107,14 @@ app/)
 
 **Thoughts**: I felt like I want to dive more into the concept of authentication tokens and API authentications.
 
+### Day 15:  August 18, 2022
+
+**Today's Progress**: I built a Search App with Freesound API. Fetching data with input keywords and the sound will be played automatically once the item is clicked by the user.
+
+**Thoughts**: I spent more time than I thought I need to build around useEffect and useCallback hook. I need to spend more time to get familiar this part.
+
+**Link(s) to work**: [Freesound Search](https://chic-sundae-717a06.netlify.app/)
+
 
 
 

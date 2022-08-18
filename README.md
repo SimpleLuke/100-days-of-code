@@ -104,6 +104,7 @@ app/)
 ### Day 14:  August 17, 2022
 
 **Today's Progress**: I worked on React authentication from Academind by Maximilian Schwarzmüller React course.
+
 **Thoughts**: I felt like I want to dive more into the concept of authentication tokens and API authentications.
 
 

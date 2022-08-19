@@ -115,6 +115,13 @@ app/)
 
 **Link(s) to work**: [Freesound Search](https://chic-sundae-717a06.netlify.app/)
 
+### Day 16:  August 19, 2022
+
+**Today's Progress**: I built a responvie Meet landing page from Frontend Mentor challenge.
+
+**Thoughts**: I spent too much time on some minor mistakes from using nested grids. I should think a faster & smarter way to do the layout.
+**Link(s) to work**: [Meet Landing Page](https://bejewelled-bienenstitch-fa8299.netlify.app/)
+
 
 
 

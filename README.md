@@ -120,7 +120,16 @@ app/)
 **Today's Progress**: I built a responvie Meet landing page from Frontend Mentor challenge.
 
 **Thoughts**: I spent too much time on some minor mistakes from using nested grids. I should think a faster & smarter way to do the layout.
+
 **Link(s) to work**: [Meet Landing Page](https://bejewelled-bienenstitch-fa8299.netlify.app/)
+
+### Day 17:  August 20, 2022
+
+**Today's Progress**: I built 3 little projects from 50 projects in 50 days: Expanding Cards, Progress Steps and Rotating Navigation.
+
+**Thoughts**: I dicided to get more fmailiar with vanilla JavaScript along with studying ReactJS framework. Fundamental is key.
+
+**Link(s) to work**: [50 Projects in 50 Days](https://github.com/SimpleLuke/50-Projects-in-50Days)
 
 
 

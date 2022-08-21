@@ -131,6 +131,12 @@ app/)
 
 **Link(s) to work**: [50 Projects in 50 Days](https://github.com/SimpleLuke/50-Projects-in-50Days)
 
+### Day 18:  August 21, 2022
+
+**Today's Progress**: I finished the React course today and got introduced to Jest testing.
+
+**Thoughts**: I am going to build more big projects with ReactJs to get more in-depth experience. Also, starting to think about Test Driven Development.
+
 
 
 

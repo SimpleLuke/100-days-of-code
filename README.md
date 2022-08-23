@@ -137,7 +137,13 @@ app/)
 
 **Thoughts**: I am going to build more big projects with ReactJs to get more in-depth experience. Also, starting to think about Test Driven Development.
 
+### Day 19:  August 22, 2022
 
+**Today's Progress**: Working with my clock app with API. You can click to refresh a new quote. Expanding details coming soon.
+
+**Thoughts**: Netlify does not support API without https, so I add fallback dummy data on the live demo.
+
+**Link(s) to work**: [React:Clock App](https://strong-chebakia-395e73.netlify.app/)
 
 
 

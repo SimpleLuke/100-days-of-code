@@ -145,6 +145,14 @@ app/)
 
 **Link(s) to work**: [React:Clock App](https://strong-chebakia-395e73.netlify.app/)
 
+### Day 20:  August 23, 2022
+
+**Today's Progress**: Working with my clock app, I add the toggle animation and the night mode.
+
+**Thoughts**: Netlify does not support API without https, so I add fallback dummy data on the live demo.
+
+**Link(s) to work**: [React:Clock App](https://strong-chebakia-395e73.netlify.app/)
+
 
 
 

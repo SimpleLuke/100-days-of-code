@@ -153,6 +153,14 @@ app/)
 
 **Link(s) to work**: [React:Clock App](https://strong-chebakia-395e73.netlify.app/)
 
+### Day 21:  August 24, 2022
+
+**Today's Progress**: Finished a course of Jest and React Testing Library today. Also added responsive feature of my React Clock app.
+
+**Thoughts**: Netlify does not support API without https, so I add fallback dummy data on the live demo.
+
+**Link(s) to work**: [React:Clock App](https://strong-chebakia-395e73.netlify.app/)
+
 
 
 

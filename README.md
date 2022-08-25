@@ -161,6 +161,14 @@ app/)
 
 **Link(s) to work**: [React:Clock App](https://strong-chebakia-395e73.netlify.app/)
 
+### Day 22:  August 25, 2022
+
+**Today's Progress**: I started learning NodeJS from Academind today.
+
+**Thoughts**: After the frontend basics, I hope learning back-end will enable me to make full-stack applications that involve interaction with a server and database.
+
+
+
 
 
 

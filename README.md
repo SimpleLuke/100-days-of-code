@@ -167,6 +167,13 @@ app/)
 
 **Thoughts**: After the frontend basics, I hope learning back-end will enable me to make full-stack applications that involve interaction with a server and database.
 
+### Day 23:  August 25, 2022
+
+**Today's Progress**: Kept learning Nodejs. Today I learnt about working with dynamic content and adding templating engines.
+
+**Thoughts**: I also make a little project about a hidden search widget.
+
+**Link(s) to work**: [Hidden Search Widget](https://tourmaline-griffin-4e67a6.netlify.app/)
 
 
 

@@ -175,6 +175,13 @@ app/)
 
 **Link(s) to work**: [Hidden Search Widget](https://tourmaline-griffin-4e67a6.netlify.app/)
 
+### Day 24:  August 26, 2022
+
+**Today's Progress**: Learning about how to connect NodeJS with database.
+
+**Thoughts**: I find out I like to learn with building projects more than endless tutorials. 
+
+
 
 
 

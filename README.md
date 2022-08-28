@@ -181,6 +181,11 @@ app/)
 
 **Thoughts**: I find out I like to learn with building projects more than endless tutorials. 
 
+### Day 25:  August 27, 2022
+
+**Today's Progress**: Start a MERN course to code along for getting familiar with NodeJS and ExpressJS.
+
+**Thoughts**: I decide to start a MERN project to get familiar what I can do with NodeJS and ExpressJS as a Frontend Developer.
 
 
 

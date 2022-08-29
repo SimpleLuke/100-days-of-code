@@ -187,6 +187,12 @@ app/)
 
 **Thoughts**: I decide to start a MERN project to get familiar what I can do with NodeJS and ExpressJS as a Frontend Developer.
 
+### Day 26:  August 28, 2022
+
+**Today's Progress**: MERN Project in prgress. Working on the ReactJS frontend part.
+
+**Thoughts**: Tomorrow I have my first interview for web developer position. Wish me luck!
+
 
 
 

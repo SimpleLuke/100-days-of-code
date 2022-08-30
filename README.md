@@ -193,6 +193,12 @@ app/)
 
 **Thoughts**: Tomorrow I have my first interview for web developer position. Wish me luck!
 
+### Day 27:  August 29, 2022
+
+**Today's Progress**: MERN Project in prgress.I try the Google Cloud service for google map API today.
+
+**Thoughts**: Even without backend, we can use the frontend for simple form validation. Set every section into a component to make it reusable with different attributes.
+
 
 
 

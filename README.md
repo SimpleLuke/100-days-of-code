@@ -167,7 +167,7 @@ app/)
 
 **Thoughts**: After the frontend basics, I hope learning back-end will enable me to make full-stack applications that involve interaction with a server and database.
 
-### Day 23:  August 25, 2022
+### Day 23:  August 26, 2022
 
 **Today's Progress**: Kept learning Nodejs. Today I learnt about working with dynamic content and adding templating engines.
 
@@ -175,29 +175,35 @@ app/)
 
 **Link(s) to work**: [Hidden Search Widget](https://tourmaline-griffin-4e67a6.netlify.app/)
 
-### Day 24:  August 26, 2022
+### Day 24:  August 27, 2022
 
 **Today's Progress**: Learning about how to connect NodeJS with database.
 
 **Thoughts**: I find out I like to learn with building projects more than endless tutorials. 
 
-### Day 25:  August 27, 2022
+### Day 25:  August 28, 2022
 
 **Today's Progress**: Start a MERN course to code along for getting familiar with NodeJS and ExpressJS.
 
 **Thoughts**: I decide to start a MERN project to get familiar what I can do with NodeJS and ExpressJS as a Frontend Developer.
 
-### Day 26:  August 28, 2022
+### Day 26:  August 29, 2022
 
 **Today's Progress**: MERN Project in prgress. Working on the ReactJS frontend part.
 
 **Thoughts**: Tomorrow I have my first interview for web developer position. Wish me luck!
 
-### Day 27:  August 29, 2022
+### Day 27:  August 30, 2022
 
 **Today's Progress**: MERN Project in prgress.I try the Google Cloud service for google map API today.
 
 **Thoughts**: Even without backend, we can use the frontend for simple form validation. Set every section into a component to make it reusable with different attributes.
+
+### Day 28:  August 31, 2022
+
+**Today's Progress**: MERN Project in prgress. I finished the frontend part, now move to the backend part.
+
+**Thoughts**: I joined the CS50 live stream today. When David said progrmming takes time, I felt a lot. I felt myself learning so slow. However, it is similar with programming. It takes time, and you have to break it down to small steps, then work it one by one.
 
 
 

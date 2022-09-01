@@ -205,6 +205,12 @@ app/)
 
 **Thoughts**: I joined the CS50 live stream today. When David said progrmming takes time, I felt a lot. I felt myself learning so slow. However, it is similar with programming. It takes time, and you have to break it down to small steps, then work it one by one.
 
+### Day 29:  September 1, 2022
+
+**Today's Progress**: MERN Project in progress. I finished connecting the backend to MongoDB database with mongoose. Gonna connect the frontend to backend tommorrow.
+
+**Thoughts**: I want to do more projects working with backend and database to get more familiar with all the things I can do.
+
 
 
 

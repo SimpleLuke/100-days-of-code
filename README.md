@@ -211,6 +211,12 @@ app/)
 
 **Thoughts**: I want to do more projects working with backend and database to get more familiar with all the things I can do.
 
+### Day 30:  September 2, 2022
+
+**Today's Progress**: MERN Project in progress. I finished connecting the ReactJS frontend to backend and database today.
+
+**Thoughts**: I am going to learn how to add upload files/photos function to the backend tomorrow.
+
 
 
 

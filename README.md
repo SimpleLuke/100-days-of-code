@@ -217,6 +217,12 @@ app/)
 
 **Thoughts**: I am going to learn how to add upload files/photos function to the backend tomorrow.
 
+### Day 31:  September 3, 2022
+
+**Today's Progress**: MERN Project in progress. I learned how to upload file(image) from frontend to backend today.
+
+**Thoughts**: I feel like even I learned it today. I will still need to read through the steps next time.
+
 
 
 

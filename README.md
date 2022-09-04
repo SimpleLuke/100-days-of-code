@@ -223,6 +223,12 @@ app/)
 
 **Thoughts**: I feel like even I learned it today. I will still need to read through the steps next time.
 
+### Day 32:  September 4, 2022
+
+**Today's Progress**: MERN Project in progress. Finished Authentication & Authorization part.
+
+**Thoughts**: I am going to touch up the frontent design to give it a professional look.
+
 
 
 

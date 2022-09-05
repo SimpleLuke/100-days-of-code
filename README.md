@@ -229,6 +229,13 @@ app/)
 
 **Thoughts**: I am going to touch up the frontent design to give it a professional look.
 
+### Day 33:  September 5, 2022
+
+**Today's Progress**: This is a social media website for foodie built with MERN stack.
+
+**Thoughts**: You can sign up an account and post your favourite comfort food.
+
+**Link(s) to work**: [MERN app:Comfort Foodie](https://react-http-3b331.web.app/)
 
 
 

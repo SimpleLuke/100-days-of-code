@@ -237,6 +237,13 @@ app/)
 
 **Link(s) to work**: [MERN app:Comfort Foodie](https://react-http-3b331.web.app/)
 
+### Day 34:  September 6, 2022
+
+**Today's Progress**: Today I took more practice on Jest testing and Typescript.
+
+**Thoughts**: I know the concepts but I have to use it in real projects to make it stick.
+
+
 
 
 

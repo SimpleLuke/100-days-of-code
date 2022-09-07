@@ -243,6 +243,12 @@ app/)
 
 **Thoughts**: I know the concepts but I have to use it in real projects to make it stick.
 
+### Day 35:  September 7, 2022
+
+**Today's Progress**: Today I have been working on job interview task.
+
+**Thoughts**: I feel excited and tense for the coming interview. I really want this opportunity. I have to find some way to release this tension. I try to go back to gym.
+
 
 
 

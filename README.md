@@ -249,6 +249,12 @@ app/)
 
 **Thoughts**: I feel excited and tense for the coming interview. I really want this opportunity. I have to find some way to release this tension. I try to go back to gym.
 
+### Day 36:  September 8, 2022
+
+**Today's Progress**: Getting familiar with TypeScript core types.
+
+**Thoughts**: I am not sure when will I use tuple and enum in a project.
+
 
 
 

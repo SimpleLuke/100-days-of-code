@@ -255,6 +255,12 @@ app/)
 
 **Thoughts**: I am not sure when will I use tuple and enum in a project.
 
+### Day 37:  September 9, 2022
+
+**Today's Progress**: I finished my second interview today, which is a presentation of my coding task.
+
+**Thoughts**: I am proud of what I did, and I think they like what I did. The journey is still very long and I still have a lot of things to learn. Let's hope for the best.
+
 
 
 

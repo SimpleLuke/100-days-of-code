@@ -261,6 +261,12 @@ app/)
 
 **Thoughts**: I am proud of what I did, and I think they like what I did. The journey is still very long and I still have a lot of things to learn. Let's hope for the best.
 
+### Day 38:  September 10, 2022
+
+**Today's Progress**: Keep learning more about TypeScript.
+
+**Thoughts**: Job hunting and moving house give me some stress. But I still have lots of project ideas that I wanna do!
+
 
 
 

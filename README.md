@@ -267,6 +267,12 @@ app/)
 
 **Thoughts**: Job hunting and moving house give me some stress. But I still have lots of project ideas that I wanna do!
 
+### Day 39:  September 11, 2022
+
+**Today's Progress**: Start a e-commerce website project today.
+
+**Thoughts**: I will think about if I want to use MERN stack for this project.
+
 
 
 

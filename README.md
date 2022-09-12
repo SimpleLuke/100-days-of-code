@@ -273,6 +273,12 @@ app/)
 
 **Thoughts**: I will think about if I want to use MERN stack for this project.
 
+### Day 40:  September 12, 2022
+
+**Today's Progress**: Busy at moving house today. Took sometimes to re-read Eloquent JavaScript
+
+**Thoughts**: I hope I can start my project soon.
+
 
 
 

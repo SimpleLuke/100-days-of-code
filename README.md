@@ -279,7 +279,7 @@ app/)
 
 **Thoughts**: I hope I can start my project soon.
 
-### Day 41:  September 12, 2022
+### Day 41:  September 13, 2022
 
 **Today's Progress**: Starting a e-commerce website project with Frontend mentor challenge.
 

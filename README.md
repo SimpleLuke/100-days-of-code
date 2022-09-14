@@ -285,6 +285,12 @@ app/)
 
 **Thoughts**: Moving house, finding job and project. Amazing schedule!
 
+### Day 42:  September 14, 2022
+
+**Today's Progress**: Working on the e-commerce website project homepage UI today.
+
+**Thoughts**: Moving house is kind of settled, I am going to push myself back into the coding mode!
+
 
 
 

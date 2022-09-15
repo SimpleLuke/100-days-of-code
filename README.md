@@ -291,6 +291,12 @@ app/)
 
 **Thoughts**: Moving house is kind of settled, I am going to push myself back into the coding mode!
 
+### Day 43:  September 15, 2022
+
+**Today's Progress**: Working on the E-commerce website project navigation today.
+
+**Thoughts**: I also take some revision about jquery for a upcoming potential interview.
+
 
 
 

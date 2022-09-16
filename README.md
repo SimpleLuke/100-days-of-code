@@ -298,6 +298,13 @@ app/)
 **Thoughts**: I also take some revision about jquery for a upcoming potential interview.
 
 
+### Day 44:  September 16, 2022
+
+**Today's Progress**: Working on the E-commerce website project homepage today.
+
+**Thoughts**: Always think about which components can be re-used.
+
+
 
 
 

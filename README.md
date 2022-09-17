@@ -305,6 +305,13 @@ app/)
 **Thoughts**: Always think about which components can be re-used.
 
 
+### Day 45:  September 17, 2022
+
+**Today's Progress**: Working on the E-commerce website project homepage in progress.
+
+**Thoughts**: Gonna start the product detail pages after the footer section.
+
+
 
 
 

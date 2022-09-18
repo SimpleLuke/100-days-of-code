@@ -312,6 +312,13 @@ app/)
 **Thoughts**: Gonna start the product detail pages after the footer section.
 
 
+### Day 46:  September 18, 2022
+
+**Today's Progress**: Making the E-commerce website project homepage responsive today.
+
+**Thoughts**: The progress is a bit slow today. But remember, learning is life-long.
+
+
 
 
 

@@ -318,6 +318,12 @@ app/)
 
 **Thoughts**: The progress is a bit slow today. But remember, learning is life-long.
 
+### Day 47:  September 19, 2022
+
+**Today's Progress**: Built the E-commerce website project catogory page and make it responsive today.
+
+**Thoughts**: I joined the Zero to Mastery today. I hope I can strengthen my foundation from this course.
+
 
 
 

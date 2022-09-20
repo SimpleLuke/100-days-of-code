@@ -324,7 +324,11 @@ app/)
 
 **Thoughts**: I joined the Zero to Mastery today. I hope I can strengthen my foundation from this course.
 
+### Day 48:  September 20, 2022
 
+**Today's Progress**: Built the E-commerce website project detail page structure today.
+
+**Thoughts**: I also focus on "Learning to Learn [Efficient Learning]: Zero to Mastery" today. I try to figure out what is my productivity time and way to learn effectively.
 
 
 

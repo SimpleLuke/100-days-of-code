@@ -330,6 +330,12 @@ app/)
 
 **Thoughts**: I also focus on "Learning to Learn [Efficient Learning]: Zero to Mastery" today. I try to figure out what is my productivity time and way to learn effectively.
 
+### Day 49:  September 21, 2022
+
+**Today's Progress**: Back to the basic, take some revision about the web.
+
+**Thoughts**: Sir Tim Berners-Lee invented the World Wide Web in 1989. He created the first web browser, web server and website. 
+
 
 
 

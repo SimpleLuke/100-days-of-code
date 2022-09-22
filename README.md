@@ -336,6 +336,12 @@ app/)
 
 **Thoughts**: Sir Tim Berners-Lee invented the World Wide Web in 1989. He created the first web browser, web server and website. 
 
+### Day 50:  September 22, 2022
+
+**Today's Progress**: Back to the basic, take some revision about the CSS.
+
+**Thoughts**: CSS takes time to master, but don't spend time to just memorize all those properties. Practice it with JavaScript in real world project.
+
 
 
 

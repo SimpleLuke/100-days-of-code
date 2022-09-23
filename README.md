@@ -338,10 +338,9 @@ app/)
 
 ### Day 50:  September 22, 2022
 
-**Today's Progress**: Back to the basic, take some revision about the CSS.
+**Today's Progress**: Back to the basic, take some revision about the CSS grid.
 
-**Thoughts**: CSS takes time to master, but don't spend time to just memorize all those properties. Practice it with JavaScript in real world project.
-
+**Thoughts**: Today I am thinking whether I should find a non-devlopment full-time or part-time job for living whilte learning programming and hunting for a web developer position.
 
 
 

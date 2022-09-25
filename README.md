@@ -355,5 +355,11 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 **Thoughts**: When I was doing exercises with Vanilia JavaScript, I keep thinking "it would be much easier if I use ReactJs". But I think I should master Vanilia JavaScript before I depend on other libraries and frameworks.
 
 
+### Day 53:  September 25, 2022
+
+**Today's Progress**: Back to the basic, take some revision about JavaScript concept
+
+**Thoughts**: I finished the basic JavaScript revisition today. Amazing to see ECMASCript improves every year.
+
 
 

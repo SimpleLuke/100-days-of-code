@@ -361,5 +361,10 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Thoughts**: I finished the basic JavaScript revisition today. Amazing to see ECMASCript improves every year.
 
+### Day 54:  September 26, 2022
+
+**Today's Progress**: Back to the basic, take some revision about JavaScript concept
+
+**Thoughts**: It's good to remind myself, programming is about PROBLEM SOLVING!
 
 

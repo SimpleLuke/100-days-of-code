@@ -367,4 +367,10 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Thoughts**: It's good to remind myself, programming is about PROBLEM SOLVING!
 
+### Day 55:  September 27, 2022
+
+**Today's Progress**: Back to the basic, take some revision about NPM.
+
+**Thoughts**: At the beginning, when you see different of libraries and depenencies in the package.json, you could feel intimitated.
+
 

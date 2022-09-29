@@ -379,4 +379,10 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Thoughts**: Have been doing researches about how people schedule their study everyday.
 
+### Day 57:  September 29, 2022
+
+**Today's Progress**: Update my LinkedIn and resume. Continue to take revision about ReactJS
+
+**Thoughts**: Do what normal people won't do to get a job.
+
 

@@ -373,4 +373,10 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Thoughts**: At the beginning, when you see different of libraries and depenencies in the package.json, you could feel intimitated.
 
+### Day 56:  September 28, 2022
+
+**Today's Progress**: Kind of a rest day today. 
+
+**Thoughts**: Have been doing researches about how people schedule their study everyday.
+
 

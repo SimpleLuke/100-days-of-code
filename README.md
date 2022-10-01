@@ -391,3 +391,9 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Thoughts**: AJAX, Asynchronous JavaScript and XML. When these technologies are combined in the Ajax model, web applications are able to make quick, incremental updates to the user interface without reloading the entire browser page. This makes the application faster and more responsive to user actions.
 
+### Day 59:  October 1, 2022
+
+**Today's Progress**: Back to the basic, take some revision about ReactJS.
+
+**Thoughts**: Before searching tutorial on YouTube, read through the documentation first!
+

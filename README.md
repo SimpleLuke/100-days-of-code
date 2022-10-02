@@ -397,3 +397,8 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Thoughts**: Before searching tutorial on YouTube, read through the documentation first!
 
+### Day 60:  October 2, 2022
+
+**Today's Progress**: Back to the basic, take some revision about NodeJS.
+
+**Thoughts**: At the same time, I also working on the smart brain project from ZTM.

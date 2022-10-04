@@ -402,3 +402,9 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 **Today's Progress**: Back to the basic, take some revision about NodeJS.
 
 **Thoughts**: At the same time, I also working on the smart brain project from ZTM.
+
+### Day 61:  October 3, 2022
+
+**Today's Progress**: Learning PostgreSQL today.
+
+**Thoughts**: I spent a lot of time to insatll PostgreSQL on my Macbook, and I spent lots of time to debug what's wrong with those errors. After few hours, it just suddenly works. Maybe it's the OS system.

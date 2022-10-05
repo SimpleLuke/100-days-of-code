@@ -408,3 +408,11 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 **Today's Progress**: Learning PostgreSQL today.
 
 **Thoughts**: I spent a lot of time to insatll PostgreSQL on my Macbook, and I spent lots of time to debug what's wrong with those errors. After few hours, it just suddenly works. Maybe it's the OS system.
+
+### Day 62:  October 4, 2022
+
+**Today's Progress**: I finished my Face Recognition App from ZTM.
+
+**Thoughts**: I felt I have moved forward for another step. Kepp going!
+
+**Link(s) to work**: [Smart Brain](https://smart-brain1uk3.herokuapp.com/)

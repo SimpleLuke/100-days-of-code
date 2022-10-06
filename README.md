@@ -416,3 +416,9 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 **Thoughts**: I felt I have moved forward for another step. Kepp going!
 
 **Link(s) to work**: [Smart Brain](https://smart-brain1uk3.herokuapp.com/)
+
+### Day 63:  October 5, 2022
+
+**Today's Progress**: I started to apply jobs again.
+
+**Thoughts**: Now I feel like I am ready for a junior job, but I will aim higher to learn to be a senior developer.

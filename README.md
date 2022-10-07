@@ -422,3 +422,9 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 **Today's Progress**: I started to apply jobs again.
 
 **Thoughts**: Now I feel like I am ready for a junior job, but I will aim higher to learn to be a senior developer.
+
+### Day 64:  October 6, 2022
+
+**Today's Progress**: Learn about how to increase a website performance.
+
+**Thoughts**: When I learnt how to use SSH to login GitHub from ZTM, I found that I already did it myself long time ago.

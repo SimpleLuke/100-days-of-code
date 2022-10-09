@@ -434,3 +434,9 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 **Today's Progress**: Learn about how to increase a website performance.
 
 **Thoughts**: Above the fold loading is one of the techniques to increase the loading speed of a website with only loading what is necessary at the beginning.
+
+### Day 66:  October 8, 2022
+
+**Today's Progress**: Learn about how to increase a website performance.
+
+**Thoughts**: By code splitting, user only load the JavaScript files when needed.

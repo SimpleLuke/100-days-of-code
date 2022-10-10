@@ -440,3 +440,9 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 **Today's Progress**: Learn about how to increase a website performance.
 
 **Thoughts**: By code splitting, user only load the JavaScript files when needed.
+
+### Day 67:  October 9, 2022
+
+**Today's Progress**: Take some revision about JEST testing library.
+
+**Thoughts**: Unit test will be used most of the time, it always go with same input and same output, no side effect and don't test the contract.

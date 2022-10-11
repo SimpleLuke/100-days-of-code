@@ -446,3 +446,11 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 **Today's Progress**: Take some revision about JEST testing library.
 
 **Thoughts**: Unit test will be used most of the time, it always go with same input and same output, no side effect and don't test the contract.
+
+### Day 68:  October 10, 2022
+
+**Today's Progress**: Take some revision about TypeScript.
+
+**Thoughts**: I update the Freesound Search App on my portfoilo. I also try to apply Tailwind css on this project.
+
+**Link(s) to work**: [Freesound Search](https://radiant-twilight-3dee2b.netlify.app/)

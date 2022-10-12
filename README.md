@@ -454,3 +454,9 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 **Thoughts**: I update the Freesound Search App on my portfoilo. I also try to apply Tailwind css on this project.
 
 **Link(s) to work**: [Freesound Search](https://radiant-twilight-3dee2b.netlify.app/)
+
+### Day 69:  October 11, 2022
+
+**Today's Progress**: Take some revision about Security.
+
+**Thoughts**: In Junior to Senior Developer course, there is a code analysis section teaching how to improve the smart brain app. But I found out I have already implement the multi-face dections by myself. I feel proud of myself.

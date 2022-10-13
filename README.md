@@ -460,3 +460,9 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 **Today's Progress**: Take some revision about Security.
 
 **Thoughts**: In Junior to Senior Developer course, there is a code analysis section teaching how to improve the smart brain app. But I found out I have already implement the multi-face dections by myself. I feel proud of myself.
+
+### Day 70:  October 12, 2022
+
+**Today's Progress**: Learn about Amazon Web Services.
+
+**Thoughts**: There are lots of differen AWS flow I can take reference from.

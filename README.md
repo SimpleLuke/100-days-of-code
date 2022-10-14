@@ -466,3 +466,9 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 **Today's Progress**: Learn about Amazon Web Services.
 
 **Thoughts**: There are lots of differen AWS flow I can take reference from.
+
+### Day 71:  October 13, 2022
+
+**Today's Progress**: Learn more about how to contribute to Open Source Projects on GitHub.
+
+**Thoughts**: Working on Open Source Projects can improve the experience more close to real world application rather than tutorial application.

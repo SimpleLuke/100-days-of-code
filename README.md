@@ -472,3 +472,9 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 **Today's Progress**: Learn more about how to contribute to Open Source Projects on GitHub.
 
 **Thoughts**: Working on Open Source Projects can improve the experience more close to real world application rather than tutorial application.
+
+### Day 72:  October 14, 2022
+
+**Today's Progress**: I spent some time to fix some bugs and grammar of my personal website.
+
+**Thoughts**: I also do the future proof workshop from ZTM. I will treat what I wrote down to be my guide in the future.

@@ -478,3 +478,11 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 **Today's Progress**: I spent some time to fix some bugs and grammar of my personal website.
 
 **Thoughts**: I also do the future proof workshop from ZTM. I will treat what I wrote down to be my guide in the future.
+
+### Day 73:  October 15, 2022
+
+**Today's Progress**: I built a simple quote generator.
+
+**Thoughts**: Users can read a new quote by clicking the New Quote button and tweet their favourite quote by clicking the tweet button.
+
+**Link(s) to work**: [Quote Generator](https://simpleluke.github.io/Quote-Generator/)

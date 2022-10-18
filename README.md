@@ -486,3 +486,27 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 **Thoughts**: Users can read a new quote by clicking the New Quote button and tweet their favourite quote by clicking the tweet button.
 
 **Link(s) to work**: [Quote Generator](https://simpleluke.github.io/Quote-Generator/)
+
+### Day 74:  October 16, 2022
+
+**Today's Progress**: I built an Infinite Scroll with HTML, CSS, JavaScript.
+
+**Thoughts**: Users can view photos from Unsplash. Users can view the specific Unsplash page of the photo by clicking it. Users can view more photos by scrolling down.
+
+**Link(s) to work**: [Quote Generator](https://simpleluke.github.io/Infinite-Scroll/)
+
+### Day 75:  October 17, 2022
+
+**Today's Progress**: I built a Picture In Picture App with HTML, CSS, JavaScript for Chrome browser.
+
+**Thoughts**: Users can choose a window they want to stream. Users can view the specific window in a Picture in Picture mode by clicking the "START" button.
+
+**Link(s) to work**: [Quote Generator](https://simpleluke.github.io/Picture-In-Picture)
+
+### Day 76:  October 18, 2022
+
+**Today's Progress**: I built a a Joke Teller with HTML, CSS, JavaScript and API.
+
+**Thoughts**: Users can listen a programming joke by clicking the "Tell Me A Joke" button. JokeAPI and Voice RSS Text-to-Speech (TTS) API are used in this project.
+
+**Link(s) to work**: [Quote Generator](https://simpleluke.github.io/Joke-Teller)

@@ -493,7 +493,7 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Thoughts**: Users can view photos from Unsplash. Users can view the specific Unsplash page of the photo by clicking it. Users can view more photos by scrolling down.
 
-**Link(s) to work**: [Quote Generator](https://simpleluke.github.io/Infinite-Scroll/)
+**Link(s) to work**: [Infinite Scroll](https://simpleluke.github.io/Infinite-Scroll/)
 
 ### Day 75:  October 17, 2022
 
@@ -501,7 +501,7 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Thoughts**: Users can choose a window they want to stream. Users can view the specific window in a Picture in Picture mode by clicking the "START" button.
 
-**Link(s) to work**: [Quote Generator](https://simpleluke.github.io/Picture-In-Picture)
+**Link(s) to work**: [Picture In Picture](https://simpleluke.github.io/Picture-In-Picture)
 
 ### Day 76:  October 18, 2022
 
@@ -509,7 +509,7 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Thoughts**: Users can listen a programming joke by clicking the "Tell Me A Joke" button. JokeAPI and Voice RSS Text-to-Speech (TTS) API are used in this project.
 
-**Link(s) to work**: [Quote Generator](https://simpleluke.github.io/Joke-Teller)
+**Link(s) to work**: [Joke Teller](https://simpleluke.github.io/Joke-Teller)
 
 ### Day 77:  October 19, 2022
 
@@ -517,4 +517,4 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Thoughts**: Users can play the song or choose another song with the control panel. The progress bar will change when the song is playing. Users can click the progress bar to listen to a specific part of a song.
 
-**Link(s) to work**: [Quote Generator](https://simpleluke.github.io/Music-Player)
+**Link(s) to work**: [Music Player](https://simpleluke.github.io/Music-Player)

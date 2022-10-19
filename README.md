@@ -505,8 +505,16 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 ### Day 76:  October 18, 2022
 
-**Today's Progress**: I built a a Joke Teller with HTML, CSS, JavaScript and API.
+**Today's Progress**: I built a Joke Teller with HTML, CSS, JavaScript and API.
 
 **Thoughts**: Users can listen a programming joke by clicking the "Tell Me A Joke" button. JokeAPI and Voice RSS Text-to-Speech (TTS) API are used in this project.
 
 **Link(s) to work**: [Quote Generator](https://simpleluke.github.io/Joke-Teller)
+
+### Day 77:  October 19, 2022
+
+**Today's Progress**: I built a Music Player with HTML, CSS, JavaScript.
+
+**Thoughts**: Users can play the song or choose another song with the control panel. The progress bar will change when the song is playing. Users can click the progress bar to listen to a specific part of a song.
+
+**Link(s) to work**: [Quote Generator](https://simpleluke.github.io/Music-Player)

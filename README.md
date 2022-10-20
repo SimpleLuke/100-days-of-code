@@ -518,3 +518,11 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 **Thoughts**: Users can play the song or choose another song with the control panel. The progress bar will change when the song is playing. Users can click the progress bar to listen to a specific part of a song.
 
 **Link(s) to work**: [Music Player](https://simpleluke.github.io/Music-Player)
+
+### Day 78:  October 20, 2022
+
+**Today's Progress**: I built a Custom Countdown with HTML, CSS, JavaScript.
+
+**Thoughts**: Users can choose a title and a date for this countdown app.Countdown panel shows the remaining time to the users. Countdown time is stored in the local storage within the browser.
+
+**Link(s) to work**: [Custom Countdown](https://simpleluke.github.io/Custom-Countdown)

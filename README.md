@@ -526,3 +526,13 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 **Thoughts**: Users can choose a title and a date for this countdown app.Countdown panel shows the remaining time to the users. Countdown time is stored in the local storage within the browser.
 
 **Link(s) to work**: [Custom Countdown](https://simpleluke.github.io/Custom-Countdown)
+
+### Day 79:  October 22, 2022
+
+**Today's Progress**: I built a Video Player with HTML, CSS, JavaScript.
+
+**Thoughts**: Users can play the video and adjust the control panel's speed, volume, progress and fullscreen.
+
+**Link(s) to work**: [Video Player](https://simpleluke.github.io/Video-Player)
+
+

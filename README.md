@@ -535,4 +535,12 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Link(s) to work**: [Video Player](https://simpleluke.github.io/Video-Player)
 
+### Day 80:  October 23, 2022
+
+**Today's Progress**: I built a Frontend Form Validation with HTML, CSS, JavaScript.
+
+**Thoughts**: Users can register by filling in the required information on the form. The form will validate the input values and change to the corresponding color/messages. Sensitive information should be further handled on the server.
+
+**Link(s) to work**: [Form Validation](https://simpleluke.github.io/Form-Validation)
+
 

@@ -543,4 +543,12 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Link(s) to work**: [Form Validation](https://simpleluke.github.io/Form-Validation)
 
+### Day 81:  October 24, 2022
+
+**Today's Progress**: I built a Spock Rock Game with HTML, CSS, JavaScript.
+
+**Thoughts**: This is a game from big bang theory. Users can play the game with computer. If the users win, confettis will show. Rules :[Click here](https://www.youtube.com/watch?v=405Nh2H4Ucg)
+
+**Link(s) to work**: [Spock Rock Game](https://simpleluke.github.io/Spock-Rock-Game)
+
 

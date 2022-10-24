@@ -551,4 +551,10 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Link(s) to work**: [Spock Rock Game](https://simpleluke.github.io/Spock-Rock-Game)
 
+### Day 82:  October 25, 2022
+
+**Today's Progress**: I am building a e-commerce application with React.
+
+**Thoughts**: Today, I set up the basic category containers and navigation bar with React Router DOM.
+
 

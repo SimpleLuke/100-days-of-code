@@ -557,4 +557,9 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Thoughts**: Today, I set up the basic category containers and navigation bar with React Router DOM.
 
+### Day 83:  October 26, 2022
+
+**Today's Progress**: I am building a e-commerce application with React.
+
+**Thoughts**: Today, I set up the authentication page with firebase authentication and firestore database.
 

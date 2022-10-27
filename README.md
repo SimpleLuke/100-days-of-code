@@ -563,3 +563,9 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Thoughts**: Today, I set up the authentication page with firebase authentication and firestore database.
 
+### Day 84:  October 27, 2022
+
+**Today's Progress**: I am building a e-commerce application with React.
+
+**Thoughts**: Today, I moved to the products page and worked on the functionality of adding items.
+

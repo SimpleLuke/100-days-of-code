@@ -569,3 +569,9 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Thoughts**: Today, I moved to the products page and worked on the functionality of adding items.
 
+### Day 85:  October 28, 2022
+
+**Today's Progress**: I am building a e-commerce application with React.
+
+**Thoughts**: Today, I built the product page and worked on the checkout feature. Users can add/remove items during the checkout page.
+

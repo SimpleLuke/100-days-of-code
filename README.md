@@ -527,7 +527,7 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Link(s) to work**: [Custom Countdown](https://simpleluke.github.io/Custom-Countdown)
 
-### Day 79:  October 22, 2022
+### Day 79:  October 21, 2022
 
 **Today's Progress**: I built a Video Player with HTML, CSS, JavaScript.
 
@@ -535,7 +535,7 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Link(s) to work**: [Video Player](https://simpleluke.github.io/Video-Player)
 
-### Day 80:  October 23, 2022
+### Day 80:  October 22, 2022
 
 **Today's Progress**: I built a Frontend Form Validation with HTML, CSS, JavaScript.
 
@@ -543,7 +543,7 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Link(s) to work**: [Form Validation](https://simpleluke.github.io/Form-Validation)
 
-### Day 81:  October 24, 2022
+### Day 81:  October 23, 2022
 
 **Today's Progress**: I built a Spock Rock Game with HTML, CSS, JavaScript.
 
@@ -551,27 +551,33 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Link(s) to work**: [Spock Rock Game](https://simpleluke.github.io/Spock-Rock-Game)
 
-### Day 82:  October 25, 2022
+### Day 82:  October 24, 2022
 
 **Today's Progress**: I am building a e-commerce application with React.
 
 **Thoughts**: Today, I set up the basic category containers and navigation bar with React Router DOM.
 
-### Day 83:  October 26, 2022
+### Day 83:  October 25, 2022
 
 **Today's Progress**: I am building a e-commerce application with React.
 
 **Thoughts**: Today, I set up the authentication page with firebase authentication and firestore database.
 
-### Day 84:  October 27, 2022
+### Day 84:  October 26, 2022
 
 **Today's Progress**: I am building a e-commerce application with React.
 
 **Thoughts**: Today, I moved to the products page and worked on the functionality of adding items.
 
-### Day 85:  October 28, 2022
+### Day 85:  October 27, 2022
 
 **Today's Progress**: I am building a e-commerce application with React.
 
 **Thoughts**: Today, I built the product page and worked on the checkout feature. Users can add/remove items during the checkout page.
+
+### Day 86:  October 28, 2022
+
+**Today's Progress**: I am building a e-commerce application with React.
+
+**Thoughts**: Today, I am working on replacing the useContext with Redux.
 

@@ -581,3 +581,9 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Thoughts**: Today, I am working on replacing the useContext with Redux.
 
+### Day 87:  October 29, 2022
+
+**Today's Progress**: I am building a e-commerce application with React.
+
+**Thoughts**: While imerging the e-commerce application with Redux, I am thinking about should I go back to university to study a Computer Science degree.
+

@@ -587,3 +587,11 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Thoughts**: While imerging the e-commerce application with Redux, I am thinking about should I go back to university to study a Computer Science degree.
 
+### Day 88:  October 30, 2022
+
+**Today's Progress**: I built a NASA Astronomy Picture of the Day with HTML, CSS, JavaScript and NASA API.
+
+**Thoughts**:Users can view the high quality astronomy Picture of the Day by clicking the images. Users can add images to their favourite. Users can load another 10 images by clicking load more button.
+
+**Link(s) to work**: [Spock Rock Game](https://simpleluke.github.io/NASA-APOD)
+

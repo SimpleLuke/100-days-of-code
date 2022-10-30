@@ -593,5 +593,5 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Thoughts**:Users can view the high quality astronomy Picture of the Day by clicking the images. Users can add images to their favourite. Users can load another 10 images by clicking load more button.
 
-**Link(s) to work**: [Spock Rock Game](https://simpleluke.github.io/NASA-APOD)
+**Link(s) to work**: [NASA APOD](https://simpleluke.github.io/NASA-APOD)
 

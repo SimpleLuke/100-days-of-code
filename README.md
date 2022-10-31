@@ -595,3 +595,8 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Link(s) to work**: [NASA APOD](https://simpleluke.github.io/NASA-APOD)
 
+### Day 89:  October 31, 2022
+
+**Today's Progress**: I am adding stripe into my e-commerce application.
+
+**Thoughts**: With Stripe, the app can now stimulate the real purchasing experience.

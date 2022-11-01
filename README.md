@@ -600,3 +600,11 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 **Today's Progress**: I am adding stripe into my e-commerce application.
 
 **Thoughts**: With Stripe, the app can now stimulate the real purchasing experience.
+
+### Day 90:  November 1, 2022
+
+**Today's Progress**: I have been updating the portfolios on my website.
+
+**Thoughts**: I felt happy and amazed. I started from zero knowledge to able to build some interesting projects.
+
+**Link(s) to work**: [Luke Lai Website](https://lukelai.tech)

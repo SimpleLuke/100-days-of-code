@@ -608,3 +608,9 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 **Thoughts**: I felt happy and amazed. I started from zero knowledge to able to build some interesting projects.
 
 **Link(s) to work**: [Luke Lai Website](https://lukelai.tech)
+
+### Day 91:  November 2, 2022
+
+**Today's Progress**: I start my new project today! 
+
+**Thoughts**: This project is about merging gaming experience into a day-to-day application.

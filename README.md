@@ -614,3 +614,9 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 **Today's Progress**: I start my new project today! 
 
 **Thoughts**: This project is about merging gaming experience into a day-to-day application.
+
+### Day 92:  November 3, 2022
+
+**Today's Progress**: Wokring on the prologue scene for my project!
+
+**Thoughts**: I use the Redux Toolkit to manage my state and manipulate the text typing effect.

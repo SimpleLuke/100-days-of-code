@@ -620,3 +620,9 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 **Today's Progress**: Wokring on the prologue scene for my project!
 
 **Thoughts**: I use the Redux Toolkit to manage my state and manipulate the text typing effect.
+
+### Day 93:  November 4, 2022
+
+**Today's Progress**: Keep working on my hero project!
+
+**Thoughts**: I feel great that I am working on a project is interesting to me! It keeps me focusing and I learnt a lot during the process. Today I added features such as scene changing, user input and a simple to-do-list(user can remove/correct the list).

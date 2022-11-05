@@ -626,3 +626,11 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 **Today's Progress**: Keep working on my hero project!
 
 **Thoughts**: I feel great that I am working on a project is interesting to me! It keeps me focusing and I learnt a lot during the process. Today I added features such as scene changing, user input and a simple to-do-list(user can remove/correct the list).
+
+### Day 94:  November 5, 2022
+
+**Today's Progress**: My very first draft of Task Quest.io.
+
+**Thoughts**: Task-Quest.io(Beta) is inpsired by one of my favorite games, Dragon Quest. This project is about increasing productivity by gaming elements. This application is built by ReactJS and Tailwind.
+
+**Link(s) to work**: [Task Quest.io](https://task-quest-io.netlify.app/)

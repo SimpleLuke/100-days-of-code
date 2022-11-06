@@ -634,3 +634,9 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 **Thoughts**: Task-Quest.io(Beta) is inpsired by one of my favorite games, Dragon Quest. This project is about increasing productivity by gaming elements. This application is built by ReactJS and Tailwind.
 
 **Link(s) to work**: [Task Quest.io](https://task-quest-io.netlify.app/)
+
+### Day 95:  November 6, 2022
+
+**Today's Progress**: Continue to learn about Data Structure.
+
+**Thoughts**: Today I chatted with the student ambassadors at Swansea University. Feel great to know more about Computer Science degree course and what to expect. I also registered the open day on 19th. I feel excited to throw myself into adcademic knowledge again, but a lot of concerns and considerations as well.

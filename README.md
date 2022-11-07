@@ -640,3 +640,10 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 **Today's Progress**: Continue to learn about Data Structure.
 
 **Thoughts**: Today I chatted with the student ambassadors at Swansea University. Feel great to know more about Computer Science degree course and what to expect. I also registered the open day on 19th. I feel excited to throw myself into adcademic knowledge again, but a lot of concerns and considerations as well.
+
+
+### Day 96:  November 7, 2022
+
+**Today's Progress**: Working on the stacks & queues data structures today.
+
+**Thoughts**: I feel great to learn more about different types of data structure. Learning how the data works helps me to approach a problem in a different angle. Leetcode is still hard though.

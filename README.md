@@ -641,9 +641,16 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Thoughts**: Today I chatted with the student ambassadors at Swansea University. Feel great to know more about Computer Science degree course and what to expect. I also registered the open day on 19th. I feel excited to throw myself into adcademic knowledge again, but a lot of concerns and considerations as well.
 
-
 ### Day 96:  November 7, 2022
 
 **Today's Progress**: Working on the stacks & queues data structures today.
 
 **Thoughts**: I feel great to learn more about different types of data structure. Learning how the data works helps me to approach a problem in a different angle. Leetcode is still hard though.
+
+### Day 97:  November 8, 2022
+
+**Today's Progress**: A Math Sprint Game.
+
+**Thoughts**: Users can play game and guess if the equations are right or wrong. Final time used will be calculated at the end of the game. Penalty time will be added for each incorrect answer.
+
+**Link(s) to work**: [Math Sprint Game](https://simpleluke.github.io/Math-Sprint-Game/)

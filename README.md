@@ -654,3 +654,11 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 **Thoughts**: Users can play game and guess if the equations are right or wrong. Final time used will be calculated at the end of the game. Penalty time will be added for each incorrect answer.
 
 **Link(s) to work**: [Math Sprint Game](https://simpleluke.github.io/Math-Sprint-Game/)
+
+### Day 98:  November 9, 2022
+
+**Today's Progress**: Learning the Tree data structure today.
+
+**Thoughts**: Binary search Tree is ordered, flexible size and better than O(n). However, there is no O(1) operations.
+
+

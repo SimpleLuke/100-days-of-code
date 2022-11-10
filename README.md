@@ -661,4 +661,10 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Thoughts**: Binary search Tree is ordered, flexible size and better than O(n). However, there is no O(1) operations.
 
+### Day 99:  November 10, 2022
+
+**Today's Progress**: Learning the Graph data structure today.
+
+**Thoughts**: A bit mentally tired today. I need to relax myself a bit.
+
 

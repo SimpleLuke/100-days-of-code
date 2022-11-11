@@ -667,4 +667,10 @@ Thoughts: CSS takes time to master, but don't spend time to just memorize all th
 
 **Thoughts**: A bit mentally tired today. I need to relax myself a bit.
 
+### Day 100:  November 11, 2022
+
+**Today's Progress**: The Final Day!
+
+**Thoughts**: It has been a long challenge. As a first-time challenger, I feel excited, frustrated, happy, fulfilled, tired, curious, desperate and passionate. I picked up tons of new knowledge and wrote a lot of codes. Even though there are always things waiting for me to learn, I should be proud of myself for how far I've walked. In the future, I want to keep coding and learning new stuff. And I hope I can master the basics and call myself a software engineer.
+
 
